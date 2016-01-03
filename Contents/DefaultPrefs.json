@@ -1,0 +1,32 @@
+[
+    {
+        "id":       "playlist",
+        "label":    "Playlist file name or URL (requires restart)",
+        "type":     "text",
+        "default":  "playlist.m3u"
+    },
+    {
+        "id":       "sort_groups",
+        "label":    "Sort groups by name",
+        "type":     "bool",
+        "default":  "true"
+    },
+    {
+        "id":       "sort_lists",
+        "label":    "Sort streams by name",
+        "type":     "bool",
+        "default":  "true"
+    },
+    {
+        "id":       "rtmp",
+        "label":    "Use SWF player for RTMP (neet to edit file Info.plist manually)",
+        "type":     "bool",
+        "default":  "false"
+    },
+    {
+        "id":       "mms",
+        "label":    "Use Silverlight player for MMS",
+        "type":     "bool",
+        "default":  "false"
+    },
+]

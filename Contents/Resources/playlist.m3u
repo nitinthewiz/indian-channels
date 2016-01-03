@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:-1 group-title="News",BBC-News-1
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,828,528,264,.m3u8
+#EXTINF:-1 group-title="News",BBC-News-2
+http://202.75.23.33:8800/live/ch28/01.m3u8
+#EXTINF:-1 group-title="News",CNN-from-somewhere
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="INT_MMS",Euro - mms_BBC News - The Daily Politics
+mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv
+#EXTINF:-1 group-title="Euro",mms_BBC News - The Daily Politics
+mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv
+#EXTINF:-1 group-title="News",CNN
+rtmp://$OPT:rtmp-raw=rtmp://b.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/live-news-stream/
+#EXTINF:-1 group-title="INDIA",NDTV-512
+http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512
+#EXTINF:-1 group-title="INDIA",NDTV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1 group-title="INDIA",NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV 24x7 S2
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV India
+http://ndtv.indostan.epac.to/ndtv/indlo/live/native
+#EXTINF:-1 group-title="INDIA",ndtv india news
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1 group-title="INDIA",NDTV Profit S2
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1 group-title="INDIA",9x Tashan
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+#EXTINF:-1 group-title="INDIA",AAJTAK NEWS:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD77_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",almi sahrha
+rtmp://cdn.m.yuppcdn.net/liveorigin/saharaaalami1
+#EXTINF:-1 group-title="INDIA",Anjan Tv[Bhojpuri]
+rtmp://$OPT:rtmp-raw=rtmp://182.73.208.74:1935/live playpath=livestream.swf swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://desichannels.webnode.com/regional-channels/anjan-tv/
+#EXTINF:-1 group-title="INDIA",ARY Qtv
+http://upmv07.ustream.tv/0/1/21/21803/21803918/1_2877889_21803918.flv?tracking=dae879_26_1_0_0&amp;offair=true&amp;rpin=rpin.09147541008495888&amp;rsid=0k4knisj&amp;ri=3864&amp;rs=69
+#EXTINF:-1 group-title="INDIA",asianet-middle-east-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",asianet-movies-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",asianet-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",B4U
+rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD ACTION 2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD CINEMA
+rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD CINEMA 2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1 group-title="INDIA",Bollywood Gossip
+rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1 group-title="INDIA",Bollywood Independent Cinema
+rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
+#EXTINF:-1 group-title="INDIA",BREAKING NEWS
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",CARTOON NETWORK
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",Dawn News
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+#EXTINF:-1 group-title="INDIA",DD NATIONAL:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",DELHI AAJTAK
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",Divya TV
+http://live.nwk4.yupptv.tv/nwk4/smil:divya.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=778
+#EXTINF:-1 group-title="INDIA",E24:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD83_W_150.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",ETV2
+http://cdn.m.yuppcdn.net/liveorigin/smil:etv2.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=30
+#EXTINF:-1 group-title="INDIA",Films of India
+rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
+#EXTINF:-1 group-title="INDIA",Hindi Movies
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+#EXTINF:-1 group-title="INDIA",HMTV
+rtsp://cdn.m.yuppcdn.net/liveorigin/hmtv2
+#EXTINF:-1 group-title="INDIA",HMTV
+rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1
+#EXTINF:-1 group-title="INDIA",india tv
+http://bitgravity.live.cdn.bitgravity.com/indiatv/live/feed001
+#EXTINF:-1 group-title="INDIA",indiavision-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=hmtv1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",Janasri News
+http://cdn.m.yuppcdn.net/liveorigin/smil:janarasi_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=314
+#EXTINF:-1 group-title="INDIA",Janasri News - Kannada
+rtsp://cdn.m.yupptv.tv/liveorigin/channel81
+#EXTINF:-1 group-title="INDIA",Lemon Tv
+http://tata.live.cdn.bitgravity.com/lemon/live/feed01
+#EXTINF:-1 group-title="INDIA",Macau TV
+rtsp://218.213.227.174:1935/tv/ch3.live
+#EXTINF:-1 group-title="INDIA",MahaaTV
+http://cdn.m.yuppcdn.net/liveorigin/smil:mahatv_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=194
+#EXTINF:-1 group-title="INDIA",MANORAMA NEWS
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2/maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=HasBahCa pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",manorama-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",mathrubhumi-news/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",mazhavil-manorama-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",mediaone-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",MHARISHI CHANNEL
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1 group-title="INDIA",News Channel
+http://cdn.m.yuppcdn.net/liveorigin/smil:asianet.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=144
+#EXTINF:-1 group-title="INDIA",Oscar Movies Bhojpuri
+http://live.nwk4.yupptv.tv/nwk4/smil:oscarmovies.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=806
+#EXTINF:-1 group-title="INDIA",POGO TV:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD29_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",Public TV
+http://live.nwk4.yupptv.tv/nwk4/smil:publictv.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=807
+#EXTINF:-1 group-title="INDIA",Raj News
+rtmp://cdn.m.yupptv.tv/liveorigin/rajnews1
+#EXTINF:-1 group-title="INDIA",Ramadan TV
+rtsp://stream.watchislam.com/ramadan
+#EXTINF:-1 group-title="INDIA",reporter-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",RK News
+rtsp://cdn.m.yupptv.tv/liveorigin/rknews1
+#EXTINF:-1 group-title="INDIA",Sahara Aalami
+rtsp://cdn.m.yupptv.tv/liveorigin/saharaaalami1
+#EXTINF:-1 group-title="INDIA",Sahara Bihar
+rtsp://cdn.m.yupptv.tv/liveorigin/saharabihar1
+#EXTINF:-1 group-title="INDIA",SAHARA FILMY:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD66_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",Sahara Madhya pradesh
+rtsp://cdn.m.yupptv.tv/liveorigin/saharamadhyap1
+#EXTINF:-1 group-title="INDIA",Sahara Mumbai
+rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1
+#EXTINF:-1 group-title="INDIA",Sahara Samay
+rtsp://cdn.m.yupptv.tv/liveorigin/saharasamaynew1
+#EXTINF:-1 group-title="INDIA",SAKSHI
+rtsp://cdn.m.yuppcdn.net/liveorigin/sakshi2
+#EXTINF:-1 group-title="INDIA",Sakshi
+rtmp://cdn.m.yupptv.tv:80/liveorigin/sakshi1
+#EXTINF:-1 group-title="INDIA",shalom-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=asia16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 group-title="INDIA",Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+#EXTINF:-1 group-title="INDIA",Studio N
+rtsp://cdn.m.yupptv.tv/liveorigin/studion2
+#EXTINF:-1 group-title="INDIA",STUDIO N 2
+rtsp://cdn.m.yuppcdn.net/liveorigin/studion3
+#EXTINF:-1 group-title="INDIA",SVBC1
+rtsp://cdn.m.yupptv.tv/liveorigin/svbc1
+#EXTINF:-1 group-title="INDIA",SVBC2
+rtsp://cdn.m.yuppcdn.net/liveorigin/svbc2
+#EXTINF:-1 group-title="INDIA",TIMES NOW:
+http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD96_W_250.sdp/hasbahca.m3u8
+#EXTINF:-1 group-title="INDIA",TV 5
+rtsp://cdn.m.yupptv.tv/liveorigin/tv51
+#EXTINF:-1 group-title="INDIA",V6 News
+http://cdn.m.yuppcdn.net/liveorigin/smil:v6news_iphone.smil/hasbahca.m3u8?userid=49610&pwd=b574f08e6762de6cd29c7508e28a29e6&channelid=447
+#EXTINF:-1 group-title="INDIA",Yes Indiavision HD
+rtmp://bomtv.5centscdn.com:1935/yesinstream/79e142411b648bc7a4b43cb8d53be0f6.sdp
+#EXTINF:-1 group-title="INDIA",MediaOne HD
+rtmp://bomtv.5centscdn.com:1935/mdonestream/3c1f4218ead10eb03ed997991d712500.sdp
+#EXTINF:-1 group-title="INDIA",Jaihind HD
+rtmp://bomtv.5centscdn.com:1935/jaihindstream/5c3c98685f62978bf25a9594118cc737.sdp
+#EXTINF:-1 group-title="INDIA",Jeevan HD
+rtmp://bomtv.5centscdn.com:1935/jeevanstream/f2a995bf4805c2c9d426960e75b2887b.sdp
+#EXTINF:-1 group-title="INDIA",Safari HD
+rtmp://bomtv.5centscdn.com:1935/safaritv/a0aeff4eece4d35eb32acaf57c91141e.sdp
+#EXTINF:-1 group-title="INDIA",Doordarshan HD
+rtmp://bomtv.5centscdn.com:1935/ddstream/66f66fd8a578846d952c0dcaba0a90f8.sdp
+#EXTINF:-1 group-title="INDIA",People HD
+rtmp://bomtv.5centscdn.com:1935/peopletv/34341bfc8dbbfe40dbf681f3e4a56510.sdp
+#EXTINF:-1 group-title="INDIA",Reporter HD
+rtmp://bomtv.5centscdn.com:1935/reporterstream/966557f07150738f32f0137895083c43.sdp
+#EXTINF:-1 group-title="INDIA",Indiavision News HD
+rtmp://bomtv.5centscdn.com:1935/ivsnstream/76cb4ee34613ca5324de9da976f2aabf.sdp
+#EXTINF:-1 group-title="INDIA",Manorama News HD
+rtmp://bomtv.5centscdn.com:1935/manoramastream/6bd3553cb978135e1c6033d9fadeac50.sdp
+#EXTINF:-1 group-title="INDIA",Asianet News HD
+rtmp://bomtv.5centscdn.com:1935/asianewstream/8c111fe3df14b5d1540db2c4966aeeed.sdp
+#EXTINF:-1 group-title="INDIA",india tv
+rtmp://5.153.29.94/asiaplustream/845d1b58bac6536fb030291a2d392e76.sdp
+#EXTINF:-1 group-title="INDIA",7S Music HD
+rtmp://bomtv.5centscdn.com:1935/sevenmusic/8725dca44919248cf275605bb03d47ae.sdp
+#EXTINF:-1 group-title="INDIA",Super TV HD
+rtmp://bomtv.5centscdn.com:1935/supertvstream/5852f36461510ecb1d019562172abc0d.sdp
+#EXTINF:-1 group-title="INDIA",Captain Channel HD
+rtmp://bomtv.5centscdn.com:1935/captainstream/c0dafd426119e0cd8af4965f133e51db.sdp
+#EXTINF:-1 group-title="INDIA",Dheeran HD
+rtmp://bomtv.5centscdn.com:1935/dheeranstream/588c378048281c034a2c431e64cde919.sdp
+#EXTINF:-1 group-title="INDIA",Captain News HD
+rtmp://bomtv.5centscdn.com:1935/captnews/0af334b996b78f791b4924a71583e279.sdp
+#EXTINF:-1 group-title="INDIA",UFX HD
+rtmp://bomtv.5centscdn.com:1935/ufxstream/2f115bd7ac9f640550bd50126eeac326.sdp
+#EXTINF:-1 group-title="INDIA",Darshana HD
+rtmp://bomtv.5centscdn.com:1935/darsanastream/4bfbe81d62326aeacbad322a70af25dc.sdp
+#EXTINF:-1 group-title="INDIA",Harvest HD
+rtmp://bomtv.5centscdn.com:1935/harveststream/430e39cf0eec69892a0fdb6b0dc4aa70.sdp
+#EXTINF:-1 group-title="INDIA",Aathmiya Yathra HD
+rtmp://bomtv.5centscdn.com:1935/aytvstream/31f038c8aa323a9c1a35aaca8b1926ef.sdp
+#EXTINF:-1 group-title="INDIA",Goodness HD
+rtmp://bomtv.5centscdn.com:1935/gdnstream/bd78d52aefce05fd31c3823daa6c49c7.sdp
+#EXTINF:-1 group-title="INDIA",Powervision HD
+rtmp://bomtv.5centscdn.com:1935/pwrvsnstream/0d4074dc8c27ccfbe848f7a151220518.sdp
+#EXTINF:-1 group-title="INDIA",Shalom HD
+rtmp://bomtv.5centscdn.com:1935/shalomstream/5da4266d3de6dbaf425a2d4fc16225d0.sdp
+#EXTINF:-1 group-title="INDIA",Kairali We HD
+rtmp://bomtv.5centscdn.com:1935/westream/7e2ed53622741d82d52a4343446d92ab.sdp
