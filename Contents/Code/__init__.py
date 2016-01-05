@@ -14,8 +14,8 @@
 
 #from collections import OrderedDict
 
-TITLE = 'IPTV'
-PREFIX = '/video/iptv'
+TITLE = 'IndianChannels'
+PREFIX = '/video/indianchannels'
 #ICON = 'icon-default.png'
 #ART = 'art-default.jpg'
 
